@@ -33,5 +33,6 @@ public class Snake extends JFrame {
             JFrame ex = new Snake();
             ex.setVisible(true);
         });
+    System.out.println("Hello World");
     }
 }
